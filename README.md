@@ -1,4 +1,4 @@
-# google_assistant-call-chatgpt
+# google-assistant-call-chatgpt
 
 ## Requirements
 - [Python 3](https://www.python.org/downloads/)
